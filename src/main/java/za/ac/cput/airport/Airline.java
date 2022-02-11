@@ -5,7 +5,7 @@ package za.ac.cput.airport;
  * 218327315
  * TDD Revision Week 1
  * 11/02/22
-
+ * update frequently
 */
 
 public class Airline {
